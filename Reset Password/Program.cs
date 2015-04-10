@@ -12,7 +12,7 @@ namespace Reset_Password
             try
             {
                 string accountName;
-                string password;
+                string password; 
 
                 if (args == null || args.Length < 2)
                 {
